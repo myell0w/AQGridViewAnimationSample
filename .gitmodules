@@ -1,0 +1,18 @@
+[submodule "PSFoundation"]
+	path = PSFoundation
+	url = https://github.com/steipete/PSFoundation.git
+[submodule "asi-http-request"]
+	path = asi-http-request
+	url = https://github.com/pokeb/asi-http-request.git
+[submodule "JSONKit"]
+	path = JSONKit
+	url = https://github.com/johnezang/JSONKit.git
+[submodule "HockeyKit"]
+	path = HockeyKit
+	url = git://github.com/TheRealKerni/HockeyKit.git
+[submodule "AQGridView"]
+	path = AQGridView
+	url = https://github.com/AlanQuatermain/AQGridView.git
+[submodule "MGSplitViewController"]
+	path = MGSplitViewController
+	url = https://github.com/mattgemmell/MGSplitViewController.git
